@@ -111,7 +111,7 @@ dependencies {
     minecraft 'net.minecraftforge:forge:1.12.2-14.23.5.2860'
     annotationProcessor "org.spongepowered:mixin:0.8.5:processor"
 
-    embed ("com.github.CleanroomMC:Mixin:381ae62b81") {
+    embed ("com.github.CleanroomMC:Mixin:5395bdb11e") {
         exclude module: "asm-commons"
         exclude module: "asm-tree"
         exclude module: "launchwrapper"
