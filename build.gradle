@@ -137,7 +137,7 @@ jar {
 
 sourceSets {
     main {
-        ext.refMap = "mixins.mixinbooter.refmap.json"
+        ext.refMap = 'mixins.mixinbooter.refmap.json'
     }
 }
 
